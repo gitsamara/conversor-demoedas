@@ -1,0 +1,48 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url(https://img.freepik.com/free-photo/american-dollar-bills_1101-1.jpg?1&w=740&t=st=1689082478~exp=1689083078~hmac=3745b566997429591366b1299fdd961d094f5672bdefc9d158aef6fbabe55f83);
+  background-color: #ffffff;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #000000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #000000;
+  margin-top: 5px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: black;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #000000;
+  color: #ffffff;
+}
+
+h2 {
+  color: #000000;
+  font-size: 30px;
+}
